@@ -1,0 +1,3 @@
+C:/Users/12900/Desktop/BCRW/SJJG/P997/cmake-build-debug/CMakeFiles/P997.dir
+C:/Users/12900/Desktop/BCRW/SJJG/P997/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12900/Desktop/BCRW/SJJG/P997/cmake-build-debug/CMakeFiles/rebuild_cache.dir
